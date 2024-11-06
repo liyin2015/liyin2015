@@ -4,7 +4,7 @@ I'm an LLM & CV researcher. Unconventionally, I dropped out of PhD to pursue a r
 * :computer: I developed [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - The Library to build and auto-optimize Large Language Model Applications.
 * :memo: I wrote [Hands-on Algorithmic Problem Solving](https://github.com/liyin2015/Hands-on-Algorithmic-Problem-Solving), which is open-sourced.
 
-My theory is: the process of maximizing my learning and growth is also the process of maximizing my impact and happiness. 
+My theory is: the process of maximizing learning and growth is also the process of maximizing impact and happiness. 
 <!---https://www.webfx.com/tools/emoji-cheat-sheet/*/--->
 
 
