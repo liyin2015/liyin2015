@@ -1,4 +1,4 @@
-### Hi, there! I'm Li! :wave:
+### Hi, there! :wave:
 I'm an LLM & CV researcher. Unconventionally, I dropped out of PhD to pursue a research career in the industry. My AI journey began with Andrew Ng's online Machine Learning class in 2013.
 <!---* :computer: I developed a [continual learning framework for few-shot object detection](https://github.com/facebookresearch/sylph-few-shot-detection).--->
 * :computer: I developed [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - The Library to build and auto-optimize Large Language Model Applications.
